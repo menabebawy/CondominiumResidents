@@ -1,4 +1,4 @@
-package com.example.conduminmiumresidents;
+package com.company.conduminmiumresidents;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
